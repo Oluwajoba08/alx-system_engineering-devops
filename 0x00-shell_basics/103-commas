@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mpa echo "\n"
+ls -mpa && printf "\n"
